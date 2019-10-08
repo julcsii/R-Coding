@@ -1,6 +1,6 @@
 # Lecture 4 Script
 # First choose a new team for next week
-
+add some random stuff
 library(readr)
 dir <- Sys.getenv("R_CODING")
 student_first_names <- read_csv(paste0(dir, "lecture2/student-names.csv"))
